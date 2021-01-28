@@ -13,3 +13,22 @@
 .block {
 	position: absolute;
 }
+
+.block:hover {
+	stroke-width: 5;
+	/*stroke: ;*/
+
+}
+
+.selected {
+	stroke: red;
+}
+
+#blockconfig {
+	position: absolute;
+	display: none;
+	border: 1.2px solid grey;
+	background-color: white;
+	width: 20%;
+	height: 10%;
+}
