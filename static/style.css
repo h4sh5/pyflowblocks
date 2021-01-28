@@ -1,0 +1,15 @@
+#createbox {
+	width: 80%;
+	height: 80%;
+	border: 1px solid #aaa;
+}
+
+.rectblock {
+	stroke-width:3;
+	stroke:black;
+	fill: white;
+}
+
+.block {
+	position: absolute;
+}
